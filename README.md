@@ -27,3 +27,15 @@ for combining and replicating data across multiple data stores.
 Together, these automate much of the undifferentiated heavy lifting
 involved with discovering, categorizing, cleaning, enriching, and moving
 data, so you can spend more time analyzing your data.  
+
+AWS Resources:
+
+IAM Users
+	Cloud9
+	AWS Management console
+	SageMaker Notebook
+	Glue Dev (Studio)
+	Glue Data Catalog
+	S3 Bucket
+	
+	
